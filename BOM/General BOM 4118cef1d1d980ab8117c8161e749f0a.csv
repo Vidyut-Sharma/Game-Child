@@ -1,0 +1,19 @@
+﻿Part,Use,Quantity,Price INR,Price USD,Link,Source
+"ESP-32 ",Main Computer.,1,₹422.00,$4.52,https://robocraze.com/products/esp32-development-board?_pos=1&_sid=3f4ec61a0&_ss=r,Robocraze
+1.8 inch TFT ( SPI ),main Display,1,₹309.00,$3.31,https://robocraze.com/products/smartelex-xpt2046-2-8-inch-tft-lcd-resistive-touch-display-240-320?_pos=2&_sid=930ee825d&_ss=r,Robocraze
+Tactile Push Buttons (set),for the controls.,1,₹156.00,$1.67,https://robocraze.com/products/1-8-inch-tft-lcd-module?variant=40194139095193,Robocraze
+MAX98357A Audio Amplifier33,Amps for the speakers!.,,₹195.00,$2.09,https://robocraze.com/products/smartelex-max98357a-i2s-audio-breakout-amplifier-for-raspberry-pi-and-microcontrollers?_pos=1&_sid=bc00a93f0&_ss=r,Robocraze
+Speaker ( 8 Ohms ),🎶,1,₹0.00,$0.00,,Allready have it!
+Battery,for powwer.,1,₹0.00,$0.00,,Allready have it!
+solid core wire packet.,wireeee.,2,₹150.00,$1.61,https://robocraze.com/products/single-stranded-hook-up-wires-1m-each-5-colors?_pos=1&_sid=21456d574&_ss=r,Robocraze
+vero board.,"will host all the parts. ",1,₹45.00,$0.48,https://robocraze.com/products/veroboard6x4?_pos=2&_sid=cf28160ce&_ss=r,Robocraze
+vero board ( smaller ),a bit smaller than the main perfboard.,1,₹28.00,$0.30,https://robocraze.com/products/vero-board-3-x4?_pos=1&_sid=cf28160ce&_ss=r,Robocraze
+40x1 female berg header,"so that i dont have to soldier the ESP or anythign into the perfboard. ",4,₹48.00,$0.51,https://robocraze.com/products/40x1-female-berg-strip?_pos=3&_sid=0c50a0b2e&_ss=r,Robocraze
+40x2 Female berg headers,for the dispaly.,1,₹16.00,$0.17,https://robocraze.com/products/40x2-female-berg-strip?_pos=5&_sid=0c50a0b2e&_ss=r,Robocraze
+Rotary Encoder Module,For Volume Control.,2,₹118.00,$1.26,https://robocraze.com/products/rotary-encoder-module?variant=40193048543385,Robocraze
+DS1307 Real Time Clock Module,This is an RTC module for time.,1,₹46.00,$0.49,https://robocraze.com/products/ds1307-real-time-clock-module?_pos=2&_sid=f7d74af44&_ss=r,Robocraze
+TM1637 4 Digit 7 Segment LED Display,for the clock.,1,₹53.00,$0.57,https://robocraze.com/products/tm1637-4-digit-7-segment-led-display?_pos=1&_sid=bdafc356f&_ss=r,Robocraze
+WS2812 16 Bit RGB LED (round),make the thing look attractive.,1,₹76.00,$0.81,https://robocraze.com/products/ws2812-16-bit-rgb-led-round?variant=40193006370969,Robocraze
+INMP microphone.,main mic,1,₹0.00,$0.00,,Allready have it!
+8Ω Speaker,speaker,1,₹0.00,$0.00,,Allready have it!
+,,,,$0.00,,
